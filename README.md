@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilização da IA no âmbito da ciência
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um prompt de comando e solicitei que fossem geradas imagens da IA na área da ciência
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A IA me gerou 4 imagens.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi bom poder realizar na prática a utilização da IA.
 ```
 
 ### Exemplos e Insigths
